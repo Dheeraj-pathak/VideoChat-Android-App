@@ -19,6 +19,20 @@
 - 🔇 **Control Audio/Video Defaults** – Start muted/hidden by default
 - 🧠 **Advanced Settings** – Includes native call integration toggle, peer-to-peer control, and more
 
+
+![image](https://github.com/user-attachments/assets/d058de14-0f9c-440c-b10c-b324d52be4b5)
+![image](https://github.com/user-attachments/assets/8fc39e56-4c8f-4111-9a79-cf31babf54e1)
+![image](https://github.com/user-attachments/assets/afe4ee85-b8fb-4207-82fc-5e50ce81d523)
+![image](https://github.com/user-attachments/assets/8b759a67-4681-4032-89c9-cf85471f3e51)
+![image](https://github.com/user-attachments/assets/c8adc690-6949-4cdb-9294-07a17d1b5057)
+![image](https://github.com/user-attachments/assets/f1436378-c89a-49eb-8755-26036fabecf5)
+![image](https://github.com/user-attachments/assets/ad502589-1b23-4a17-80ec-1b4ebe7cb21a)
+![image](https://github.com/user-attachments/assets/3769f2d4-d9a8-4d91-9811-8bcb3089798c)
+![image](https://github.com/user-attachments/assets/28a68488-f8a1-4238-b8ac-59ae9d031a9a)
+![image](https://github.com/user-attachments/assets/9a31dd7e-ab56-4459-8bae-7702b90b58e9)
+
+
+
 ---
 
 ## 🛠️ Tech Stack
